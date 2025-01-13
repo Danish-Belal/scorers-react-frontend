@@ -4,7 +4,7 @@ const Footer = ({type}: {type:string}) => {
   function handleSignupClick(type:string){
     console.log("Handle CLick ");
     
-    <Authfrom type={type}/>
+    <Authfrom/>
   }
 
   return (
