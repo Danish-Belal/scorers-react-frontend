@@ -14,7 +14,7 @@ import {
 
 
 interface socialsProfilesProps  {
-      profile:String;
+      profile:string;
       control:string
 }
 
